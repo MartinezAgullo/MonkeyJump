@@ -8,3 +8,6 @@
 
 Usage: 
 > python main.py
+
+## Reinforced learning
+The game can be used for reinforcement learning by creating a custom Gym environment compatible with Stable-Baselines3. See repository [Learn_MonkeyJump](https://github.com/MartinezAgullo/Learn_MonkeyJump) for this the RL integration.
